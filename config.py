@@ -4,4 +4,4 @@ import os
 
 load_dotenv()
 
-TOKEN_CHANEL = os.getenv('TOKEN_CHANEL')
+TOKEN = os.getenv('TOKEN')
